@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 230 56" width="230" height="56" role="img" aria-label="AURORA MEDIA">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@300;700&amp;display=swap');
+    </style>
+  </defs>
+
+  <!-- Signal dot (broadcast source) -->
+  <circle cx="19" cy="28" r="5" fill="#FC6401"/>
+
+  <!-- Arc 1 — inner -->
+  <path d="M27 15 A17 17 0 0 1 27 41"
+    fill="none" stroke="#FC6401" stroke-width="3.2" stroke-linecap="round"/>
+
+  <!-- Arc 2 — mid -->
+  <path d="M35 9 A25 25 0 0 1 35 47"
+    fill="none" stroke="#FC6401" stroke-width="2.4" stroke-linecap="round" opacity="0.62"/>
+
+  <!-- Arc 3 — outer -->
+  <path d="M43 3 A33 33 0 0 1 43 53"
+    fill="none" stroke="#FC6401" stroke-width="1.6" stroke-linecap="round" opacity="0.30"/>
+
+  <!-- Logotype: AURORA -->
+  <text
+    x="60" y="32"
+    font-family="'Titillium Web', 'Arial', sans-serif"
+    font-size="23"
+    font-weight="700"
+    fill="#FC6401"
+    letter-spacing="2">AURORA</text>
+
+  <!-- Logotype: MEDIA -->
+  <text
+    x="62" y="48"
+    font-family="'Titillium Web', 'Arial', sans-serif"
+    font-size="11"
+    font-weight="300"
+    fill="#FC6401"
+    letter-spacing="7"
+    opacity="0.88">MEDIA</text>
+</svg>
